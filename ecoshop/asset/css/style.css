@@ -1,0 +1,603 @@
+@import url(https://fonts.googleapis.com/css?family=Poppins:400,500,600,700,800,900|Roboto:400,500,700,900&display=swap);
+
+/*//////////font use//////////
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif; 
+*/
+
+/*//////////color use//////////
+#3cb878
+*/
+body {
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
+}
+/*//////////top contact//////////*/
+.top-manu {
+  line-height: 4;
+  background-color: #000;
+  font-family: 'Roboto', sans-serif; 
+  font-weight: 100;
+  font-size: 15px;
+}
+a.top-contact {
+  text-decoration: none;
+  color: #fff !important;
+}
+a.top-contact-mail {
+  color: #fff !important;
+  margin-left: 50px;
+  text-decoration: none;
+}
+i.fas.fa-envelope {
+  margin-right: 10px;
+}
+i.fas.fa-phone-square-alt {
+  margin-right: 10px;
+}
+.phone-mail {
+  margin-left: 30px;
+}
+.top-social-link {
+  float: right;
+  margin-right: 30px;
+}
+a.social-icon {
+  text-decoration: none;
+  color: #fff !important;
+  padding-right: 20px;
+  font-size: 15px;
+}
+.input-group {
+  margin-top: 11px;
+}
+a.main-search-icon {
+  color: #fff !important;
+  text-decoration: none;
+}
+button.input-group-text {
+  background-color: #3cb878;
+  border-radius: 0px !important;
+}
+
+/*///////////navbar///////////*/
+nav.navbar {
+  line-height: 2;
+}
+a.navbar-brand {
+  font-size: 25px;
+  text-transform: uppercase;
+  margin-left: 30px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: bolder;
+}
+.navbar-light .navbar-nav .nav-link {
+  color: #333 !important;
+  text-transform: uppercase;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 15px;
+}
+.navbar-light .navbar-nav .nav-link:hover {
+  color: #3cb878 !important;
+  border-bottom: 2px solid #3cb878;
+}
+li.nav-item {
+  padding: 0px 25px 0px;
+}
+.cart-icon {
+  margin-right: 30px;
+  font-size: 20px;
+}
+i.nav-cart {
+  color: #333;
+}
+
+/*//////////primary carousel//////////*/
+.carousel-caption {
+  position: absolute  !important;
+  right: 15%  !important;
+  top: 35%;
+  bottom: 20%  !important;
+  left: 25%  !important;
+  z-index: 10  !important;
+  padding-top: 20px  !important;
+  padding-bottom: 20px  !important;
+  color: #fff  !important;
+}
+h5.carousel-product-title {
+  font-size: 45px;
+  color: #3cb878;
+  text-transform: uppercase;
+  font-weight: 900;
+  font-family: 'Poppins', sans-serif;
+}
+p.carousel-product-details {
+  font-size: 20px;
+  color: #fff;
+  font-family: 'Roboto', sans-serif; 
+  text-shadow: 2px 2px 4px #000;
+}
+.carousel-button {
+  margin-top: 25px;
+  background: transparent;
+  border: 2px solid #3cb878;
+  width: 120px;
+  height: 44px;
+  font-size: 20px;
+  font-weight: 600;
+  color: #3cb878;
+  font-family: 'Roboto', sans-serif; 
+  transition: 1s;
+}
+.carousel-button:hover {
+  background-color: #3cb878;
+  color: #fff;
+}
+/*/////pagination/////*/
+.pagination {
+    display: inline-block;
+    text-align: center;
+}
+.pagination a {
+    color: #333 !important;
+    padding: 8px 16px;
+    text-decoration: none !important;
+    transition: .2s all;
+}
+.pagination a:hover {
+    background-color: #3cb878;
+    color: #fff !important;
+    border-radius: 50px;
+}   
+
+/*//////////services//////////*/
+.service-bg-color {
+  background-color: #f5f6f9;
+}
+.services {
+  padding: 60px 0px;
+}
+.service-icon {
+  padding-bottom: 30px;
+  font-size: 30px;
+  color: #3cb878;
+}
+h5.services-title {
+  font-size: 20px;
+  color: #333;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-family: 'Poppins', sans-serif;
+}
+span.details {
+  font-size: 15px;
+  color: #818181;
+  font-weight: 400;
+  font-family: 'Roboto', sans-serif;
+}
+/*//////////new-collection//////////*/
+.new-collection-1 {
+  background-image: url(../img/product-item/new-collection/blue-t-shirt.jpg);
+  background-size: cover;
+  height: 630px;
+}
+.new-collection-2 {
+  background-image: url(../img/product-item/new-collection/buddha-bracelet-for-men.jpg);
+  background-size: cover;
+  height: 630px;
+}
+.new-collection-3 {
+  background-image: url(../img/product-item/new-collection/black-fashion-backpack.jpg);
+  background-size: cover;
+  height: 630px;
+}
+.new-c-box-1 {
+  width: 280px;
+  height: 280px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 180px;
+  transform: rotateZ(-45deg);
+  border: 6px solid #333;
+  border-bottom-color: #3cb878;
+  border-top-color: #3cb878;
+  box-sizing: content-box;
+}
+.new-c-box-2 {
+  width: 280px;
+  height: 280px;
+  transform: rotateZ(45deg);
+  border: 6px solid #3cb878;
+  text-align: center;
+  box-sizing: border-box;
+}
+p.new-fashion {
+  padding-top: 90px;
+  color: #fff;
+  font-size: 22px;
+  font-weight: 500;
+  font-family: 'Roboto', sans-serif; 
+  text-transform: uppercase;
+  text-shadow: 0px  0px  10px #333;
+}
+
+p.fashion-title {
+  font-size: 30px;
+  color: #fff;
+  font-weight: 900;
+  font-family: 'Poppins', sans-serif;
+  text-transform: uppercase;
+  text-shadow: 0px 0px 10px #333;
+}
+/*//////////featured Products//////////*/
+.featured.Products {
+  margin-bottom: 40px;
+}
+.row.product-line-2 {
+  margin-top: 60px;
+}
+h2.product-heading {
+  color: #3cb878;
+  font-size: 30px;
+  text-transform: uppercase;
+  font-weight: 900;
+  font-family: 'Poppins', sans-serif;
+}
+p.product-details {
+  font-size: 15px;
+  font-style: italic;
+  font-weight: 500;
+  font-family: 'Roboto', sans-serif; 
+}
+
+/*//////////discount form//////////*/
+.form-back-img {
+  background-image: url(../img/form-back-img.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+  padding: 80px 0px  80px 0px;
+  text-align: center;
+  
+}
+h2.discount-title {
+  color: #fff;
+  font-size: 45px;
+  font-weight: 700;
+  font-family: 'Poppins', sans-serif;
+}
+p.discount-details {
+  color: #fff;
+  font-size: 15px;
+  font-style: italic;
+  font-weight: 300;
+  font-family: 'Roboto', sans-serif; 
+}
+input.email-input {
+  border: none;
+  margin-right: 10px;
+  padding: 15px 15px 17px;
+}
+button.submit-button {
+  border: none;
+  padding: 14px 40px;
+  background-color: transparent;
+  border: 2px solid #3cb878;
+  color: #fff;
+  font-weight: 700;
+  font-family: 'Roboto', sans-serif; 
+}
+
+/*//////////footer//////////*/
+.footer {
+  margin-top: 40px;
+  padding-top: 60px;
+  margin-bottom: 80px;
+  border-top: 1px solid #333;
+}
+h3.footer-all-tilte {
+  color: #3cb878;
+  font-size: 25px;
+  font-weight: 600;
+  font-family: 'Poppins', sans-serif;
+  text-transform: uppercase
+}
+a.list-item {
+  color: #333 !important;
+  text-decoration: none !important;
+  font-weight: 400;
+  font-family: 'Roboto', sans-serif; 
+}
+a.list-item:hover {
+  color: #3cb878 !important;
+  text-decoration: none !important;
+}
+.footer-list {
+  padding-top: 20px;
+}
+h6.list {
+  padding-top: 12px;
+}
+.row.Copyright-bg {
+  background-color: #000;
+}
+.copyright {
+  padding: 20px 0px 10px;
+}
+h5.copyright-huzzat {
+  color: #fff;
+  font-size: 15px;
+  text-align: center;
+  font-family: 'Roboto', sans-serif; 
+}
+
+
+/*/////privacy page/////*/
+.privacy-policy {
+  margin-top: 60px;
+}
+.heading {
+  color: #333;
+  font-size: 35px;
+  text-transform: uppercase;
+  font-weight: 900;
+  text-decoration: underline;
+  text-decoration-color: #3cb878;
+}
+.privacy-haading {
+  color: #3cb878;
+  font-weight: 700;
+  margin-top: 30px;
+}
+.details-box {
+  padding: 20px;
+}
+p.privacy-details {
+  font-size: 13px;
+  font-weight: 400;
+}
+
+
+/*/////checkout page/////*/
+.form-control {
+  border-radius: 0px !important;
+  outline: none !important;
+}
+.form-group {
+  margin-bottom: 2rem !important;
+}
+.checkout-box {
+  margin-top: 100px;
+  margin-bottom: 60px;
+}
+h6.checkout-heading {
+  font-size: 20px;
+  color: #3cb878;
+  text-transform: uppercase;
+  margin-bottom: 30px;
+  text-decoration: underline;
+  font-weight: 700;
+  font-family: 'Poppins', sans-serif;
+}
+form.forms-all-text {
+  color: #333;
+  font-size: 12px;
+  font-weight: 700;
+}
+button.btn-style {
+  color: #fff !important;
+  border: 2px solid #3cb878;
+  font-size: 12px;
+  font-weight: bold;
+  text-transform: uppercase;
+  background-color: #3cb878;
+}
+.order-box {
+  padding: 10px 20px;
+  font-family: 'Roboto', sans-serif; 
+  border: 1px solid #333;
+}
+h6.your-order {
+  font-size: 20px;
+  font-weight: 700;
+  color: #3cb878;
+  margin-bottom: 45px;
+  text-transform: uppercase;
+  font-family: 'Poppins', sans-serif;
+}
+span.left {
+  font-size: 12px;
+  font-weight: 700;
+  color: #333;
+}
+span.right {
+  float: right;
+  font-size: 12px;
+  color: #333;
+  font-weight: 700;
+}
+.line-1 {
+  width: 100%;
+  border: .5px solid #333;
+  margin-bottom: 20px;
+}
+.line-2 {
+  width: 100%;
+  border: .5px solid #333;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.line-3 {
+  width: 100%;
+  border: .5px solid #333;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.total {
+  font-size: 25px !important;
+  font-weight: 700 !important;
+}
+.total-price {
+  font-size: 25px !important;
+  font-weight: 700 !important;
+}
+.payment-box {
+  padding: 12px 20px;
+  font-size: 12px;
+  font-family: 'Roboto', sans-serif; 
+  border: 1px solid #333;
+  border-top: none;
+  /* height: 195px; */
+}
+.payment-details-box {
+  padding: 15px;
+  background-color: #f3f3f3;
+}
+.check-mark {
+  margin-top: 25px;
+}
+.order-button {
+  margin-top: 82px;
+  float: right;
+}
+
+/*/////cart page/////*/
+.cart-img {
+    width: 150px;
+    height: auto;
+}
+.table td, .table th {
+    border: 0.5px solid #dee2e6 !important;
+}
+td.table-list {
+    text-align: center;
+    padding-top: 70px;
+    font-size: 13px;
+    font-weight: 600;
+}
+span.cart-item-name {
+    font-size: 15px;
+    color: #3cb878;
+    font-weight: 700;
+    font-family: 'Roboto', sans-serif; 
+}
+th {
+    color: #333;
+    font-size: 16px;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-family: 'Roboto', sans-serif; 
+}
+button.btn.float-right {
+    border: 1px solid #3cb878;
+    margin-left: 10px;
+    text-transform: uppercase;
+    font-family: 'Roboto', sans-serif; 
+}
+.row.cart-form {
+    margin-top: 100px;
+}
+h5.cart-form-title {
+    font-size: 20px;
+    color: #3cb878;
+    font-weight: 500;
+    text-transform: uppercase;
+    margin-bottom: 25px;
+
+}
+h6.apply-coupon {
+    font-size: 15px;
+    color: #777;
+    font-family: 'Roboto', sans-serif; 
+}
+a.apply-button {
+    color: #fff !important;
+    font-weight: 700;
+    padding: 0px 20px;
+    text-decoration: none !important;
+    font-family: 'Roboto', sans-serif; 
+}
+.cart-box {
+    margin-top: 51px;
+    border: .5px solid #7777;
+    padding: 31.5px;
+}
+button.btn.btn-style-cart {
+    border: 1px solid #3cb878;
+    text-transform: uppercase;
+    color: #333;
+}
+
+
+/* product view page  */
+.product-view-page {
+  margin-top: 80px;
+  margin-bottom: 100px;
+}
+p.view-product-details {
+  font-size: 15px;
+  color: #333;
+  font-weight: 500;
+  font-family: 'Roboto', sans-serif; 
+  margin-top: 50px;
+}
+.view-pro-line {
+  width: 100%;
+  border: 1px solid #3cb878;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.product-Peace-box {
+  margin-bottom: 50px;
+}
+button.button-p-m {
+  background: #3cb878;
+  border: 1px solid #777;
+  color: #fff;
+}
+input.input-group-field {
+  width: 50px;
+  height: 28px;
+  text-align: center;
+  border: none;
+}
+button.cart-button {
+  border: 1px solid #3cb878;
+  text-transform: uppercase;
+  font-weight: 500;
+  font-family: 'Roboto', sans-serif; 
+}
+button.cart-button:hover {
+  background-color: #3cb878;
+  color: #fff;
+}
+.review-bg-color {
+  background-color: #f7f7f7;
+  padding: 30px;
+  margin-bottom: 60px;
+}
+h4.review-title {
+  font-size: 30px;
+  color: #3cb878;
+  margin-bottom: 20px;
+  font-weight: 700;
+  font-family: 'Poppins', sans-serif;
+}
+h5.add-review {
+  color: #333;
+  font-weight: 500;
+  font-family: 'Roboto', sans-serif; 
+}
+h2.rel-title {
+  color: #333;
+  font-weight: 500;
+  text-transform: uppercase;
+  font-size: 25px;
+  margin-bottom: 20px;
+  font-family: 'Poppins', sans-serif;
+}
+
+

@@ -1,0 +1,72 @@
+
+/*//////////all card design//////////*/
+.search-result {
+    margin-top: 50px;
+}
+.Showing-number {
+    font-size: 15px;
+    color: #333;
+    font-weight: 300;
+    font-family: 'Roboto', sans-serif; 
+}
+.product-section {
+    margin-top: 80px;
+    margin-bottom: 60px;
+}
+.all-product-card {
+    margin-top: 10px;
+    margin-bottom: 40px;
+}
+.card {
+    border: 0px solid rgba(0,0,0,0.0) !important;
+    position: relative;
+}
+.img-box {
+    overflow: hidden;
+}
+.card-img-top {
+    transition: all 1s;
+}
+.card-img-top:hover {
+    transform: scale(1.4);
+}
+a.title {
+    color: #3cb878 !important;
+    font-family: 'Poppins', sans-serif;
+    text-decoration: none !important;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+span.price {
+    color: #333;
+    font-size: 15px;
+    font-weight: 600;
+    font-family: 'Roboto', sans-serif; 
+}
+.card-body {
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    padding: 1rem  0rem!important;
+}
+.rating {
+    margin-top: 20px;
+    color: #FF8300;
+    font-size: 18px;
+}
+
+/*/////pagination/////*/
+.pagination {
+    display: inline-block;
+    text-align: center;
+}
+.pagination a {
+    color: #333 !important;
+    padding: 8px 16px;
+    text-decoration: none !important;
+    transition: .2s all;
+}
+.pagination a:hover {
+    background-color: #3cb878;
+    color: #fff !important;
+    border-radius: 50px;
+}   

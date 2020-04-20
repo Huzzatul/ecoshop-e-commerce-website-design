@@ -1,0 +1,632 @@
+@media (max-width: 349.99px)
+{
+    /*/////top contact/////*/
+    .top-contact-1 { 
+        display: none;
+    }
+    .top-social-icon {
+        display: none;
+    }
+    .input-group {
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+    /*/////navbar/////*/
+    a.navbar-brand {
+        margin-left: 0px;
+    }
+    i.nav-cart {
+        display: none;
+    }
+
+    /*/////primary carousel/////*/
+    .carousel-caption {
+        position: absolute  !important;
+        right: 20%  !important;
+        left: 20%  !important;
+        top: 0% !important;
+        bottom: 10%  !important;
+        padding-top: 20px  !important;
+        padding-bottom: 20px  !important;
+    }
+    h5.carousel-product-title {
+        font-size: 15px;
+    }
+    p.carousel-product-details {
+        font-size: 10px;
+    }
+    .carousel-button {
+        margin-top: 0px;
+        width: 60px;
+        height: 22px;
+        font-size: 11px;
+    }
+    /*/////new collection/////*/
+    .new-collection-1 {
+        height: 350px;
+    }
+    .new-collection-2 {
+        height: 350px;
+    }
+    .new-collection-3 {
+        height: 350px;
+    }
+    .new-c-box-1 {
+        width: 150px;
+        height: 150px;
+        margin-top: 90px;
+    }
+    .new-c-box-2 {
+        width: 150px;
+        height: 150px;
+    }
+    p.new-fashion {
+        padding-top: 40px;
+        font-size: 12px;
+    }
+      
+    p.fashion-title {
+        font-size: 20px;
+    }
+    /*/////product/////*/
+    .product-section {
+        margin-top: 0px;
+        margin-bottom: 60px;
+    }
+    .card {
+        margin-bottom: 50px;
+    }
+    /*/////discount /////*/
+    button.submit-button {
+        padding: 14px 5px;
+    }
+    /*/////footer/////*/
+    .margin-smal-devices {
+        margin-top: 50px;
+    }
+    /*/////checkout page/////*/
+    .orderbox {
+        margin-top: 60px;
+    }
+}
+
+@media (min-width: 350px) and (max-width: 449.99px)
+{
+    /*/////top contact/////*/
+    .top-contact-1 { 
+        display: none;
+    }
+    .top-social-icon {
+        display: none;
+    }
+    .input-group {
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    /*/////navbar/////*/
+    a.navbar-brand {
+        margin-left: 0px;
+    }
+    i.nav-cart {
+        display: none;
+    }
+    /*/////primary carousel/////*/
+    .carousel-caption {
+        position: absolute  !important;
+        right: 20%  !important;
+        left: 20%  !important;
+        top: 20% !important;
+        bottom: 20%  !important;
+        padding-top: 20px  !important;
+        padding-bottom: 20px  !important;
+    }
+    h5.carousel-product-title {
+        font-size: 15px;
+    }
+    p.carousel-product-details {
+        font-size: 10px;
+    }
+    .carousel-button {
+        margin-top: 0px;
+        width: 60px;
+        height: 25px;
+        font-size: 11px;
+    }
+    /*/////new collection/////*/
+    .new-collection-1 {
+        height: 450px;
+    }
+    .new-collection-2 {
+        height: 450px;
+    }
+    .new-collection-3 {
+        height: 450px;
+    }
+    .new-c-box-1 {
+        width: 200px;
+        height: 200px;
+        margin-top: 120px;
+    }
+    .new-c-box-2 {
+        width: 200px;
+        height: 200px;
+    }
+    p.new-fashion {
+        padding-top: 60px;
+        font-size: 12px;
+    } 
+    p.fashion-title {
+        font-size: 20px;
+    }
+    /*/////product/////*/
+    .product-section {
+        margin-top: 0px;
+        margin-bottom: 60px;
+    }
+    .card {
+        margin-top: 50px;
+    }
+    /*/////discount /////*/
+    button.submit-button {
+        padding: 14px 5px;
+    }
+    /*/////footer/////*/
+    .margin-smal-devices {
+        margin-top: 50px;
+    }
+    /*/////checkout page/////*/
+    .orderbox {
+        margin-top: 60px;
+    }
+}
+
+@media (min-width: 450px) and (max-width: 575.99px)
+{   
+    /*/////top contact/////*/
+    .top-contact-1 { 
+        display: none;
+    }
+    .top-social-icon {
+        display: none;
+    }
+    .input-group {
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+    /*/////navbar/////*/
+    a.navbar-brand {
+        margin-left: 0px;
+    }
+    i.nav-cart {
+        display: none;
+    }
+
+    /*/////primary carousel/////*/
+    .carousel-caption {
+        position: absolute  !important;
+        right: 20%  !important;
+        left: 20%  !important;
+        top: 20% !important;
+        bottom: 20%  !important;
+        padding-top: 20px  !important;
+        padding-bottom: 20px  !important;
+    }
+    h5.carousel-product-title {
+        font-size: 20px;
+    }
+    p.carousel-product-details {
+        font-size: 12px;
+    }
+    .carousel-button {
+        margin-top: 0px;
+        width: 60px;
+        height: 25px;
+        font-size: 11px;
+    }
+
+    /*/////new collection/////*/
+    .new-collection-1 {
+        height: 580px;
+    }
+    .new-collection-2 {
+        height: 580px;
+    }
+    .new-collection-3 {
+        height: 580px;
+    }
+    .new-c-box-1 {
+        width: 280px;
+        height: 280px;
+        margin-top: 140px;
+    }
+    .new-c-box-2 {
+        width: 280px;
+        height: 280px;
+    }
+    p.new-fashion {
+        padding-top: 90px;
+        font-size: 18px;
+    } 
+    p.fashion-title {
+        font-size: 25px;
+    }
+    /*/////product/////*/
+    .product-section {
+        margin-top: 0px;
+        margin-bottom: 60px;
+    }
+    .card {
+        margin-top: 50px;
+    }
+    /*/////footer/////*/
+    .margin-smal-devices {
+        margin-top: 50px;
+    }
+    /*/////checkout page/////*/
+    .orderbox {
+        margin-top: 60px;
+    }
+}
+
+@media (min-width: 576px) and (max-width: 767.98px)
+{   
+    /*/////top contact/////*/
+    .top-contact-1 { 
+        display: none;
+    }
+    .top-social-icon {
+        display: none;
+    }
+    .input-group {
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    /*/////navbar/////*/
+    a.navbar-brand {
+        margin-left: 0px;
+    }
+    i.nav-cart {
+        display: none;
+    }
+    /*/////primary carousel/////*/
+    .carousel-caption {
+        position: absolute  !important;
+        right: 20%  !important;
+        left: 20%  !important;
+        top: 20% !important;
+        bottom: 20%  !important;
+        padding-top: 20px  !important;
+        padding-bottom: 20px  !important;
+    }
+    h5.carousel-product-title {
+        font-size: 30px;
+    }
+    p.carousel-product-details {
+        font-size: 15px;
+    }
+    .carousel-button {
+        margin-top: 18px;
+        width: 80px;
+        height: 30px;
+        font-size: 15px;
+    }
+    /*/////new collection/////*/
+    .new-collection-1 {
+        height: 730px;
+    }
+    .new-collection-2 {
+        height: 730px;
+    }
+    .new-collection-3 {
+        height: 730px;
+    }
+    .new-c-box-1 {
+        width: 280px;
+        height: 280px;
+        margin-top: 230px;
+    }
+    .new-c-box-2 {
+        width: 280px;
+        height: 280px;
+    }
+    p.new-fashion {
+        padding-top: 90px;
+        font-size: 18px;
+    } 
+    p.fashion-title {
+        font-size: 25px;
+    }
+    /*/////product/////*/
+    .card {
+        margin-top: 50px;
+    }
+    /*/////footer/////*/
+    .margin-smal-devices {
+        margin-top: 50px;
+    }
+    /*/////checkout page/////*/
+    .orderbox {
+        margin-top: 60px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991.98px)
+{   
+    /*/////top contact/////*/
+    a.top-contact-mail {
+        margin-left: 0px;
+    }
+    i.fas.fa-envelope {
+        margin-right: 0px;
+    }
+    i.fas.fa-phone-square-alt {
+        margin-right: 0px;
+    }
+    .phone-mail {
+        margin-left: 0px;
+    }
+    a.social-icon {
+        padding-right: 5px;
+    }
+    .top-social-link {
+        margin-right: 15px;
+    }
+
+    /*/////navbar/////*/
+    a.navbar-brand {
+        margin-left: 0px;
+    }
+    i.nav-cart {
+        display: none;
+    }
+    /*/////primary carousel/////*/
+    .carousel-caption {
+        position: absolute  !important;
+        right: 20%  !important;
+        left: 20%  !important;
+        top: 20% !important;
+        bottom: 20%  !important;
+        padding-top: 20px  !important;
+        padding-bottom: 20px  !important;
+    }
+    /*/////new collection/////*/
+    .new-collection-1 {
+        height: 330px;
+    }
+    .new-collection-2 {
+        height: 330px;
+    }
+    .new-collection-3 {
+        height: 330px;
+    }
+    .new-c-box-1 {
+        width: 150px;
+        height: 150px;
+        margin-top: 85px;
+    }
+    .new-c-box-2 {
+        width: 150px;
+        height: 150px;
+    }
+    p.new-fashion {
+        padding-top: 40px;
+        font-size: 12px;
+    }
+    p.fashion-title {
+        font-size: 20px;
+    }
+    /*/////checkout page/////*/
+    .payment-details-box {
+        padding: 0px;
+    }
+    .order-button {
+        margin-top: 83px;
+        float: right;
+    }
+    .check-mark {
+        margin-top: 0px;
+    }
+
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px)
+{
+    /*/////top contact/////*/
+    a.top-contact-mail {
+        margin-left: 20px;
+    }
+    i.fas.fa-envelope {
+        margin-right: 10px;
+    }
+    i.fas.fa-phone-square-alt {
+        margin-right: 10px;
+    }
+    .phone-mail {
+        margin-left: 20px;
+    }
+    a.social-icon {
+        padding-right: 5px;
+    }
+    .top-social-link {
+        margin-right: 15px;
+    }
+
+     /*/////navbar/////*/
+    li.nav-item {
+        padding: 0px 10px 0px;
+    }
+
+    /*/////primary carousel/////*/
+    .carousel-caption {
+        position: absolute  !important;
+        right: 20%  !important;
+        left: 20%  !important;
+        top: 20% important;
+        bottom: 20%  !important;
+        padding-top: 20px  !important;
+        padding-bottom: 20px  !important;
+    }
+    /*/////new collection/////*/
+    .new-collection-1 {
+        height: 400px;
+    }
+    .new-collection-2 {
+        height: 400px;
+    }
+    .new-collection-3 {
+        height: 400px;
+    }
+    .new-c-box-1 {
+        width: 200px;
+        height: 200px;
+        margin-top: 100px;
+    }
+    .new-c-box-2 {
+        width: 200px;
+        height: 200px;
+    }
+    p.new-fashion {
+        padding-top: 55px;
+        color: #fff;
+        font-size: 15px;
+    }
+      
+    p.fashion-title {
+        font-size: 25px;
+    }
+
+     /*/////checkout page/////*/
+     .payment-details-box {
+        padding: 15px;
+    }
+    .order-button {
+        margin-top: 83px;
+        float: right;
+    }
+    .check-mark {
+        margin-top: 15px;
+    }
+}    
+
+@media (min-width: 1220px) and (max-width: 1319.98px)
+{  
+    .new-collection-1 {
+        height: 420px;
+    }
+    .new-collection-2 {
+        height: 420px;
+    }
+    .new-collection-3 {
+        height: 420px;
+    }
+    .new-c-box-1 {
+        width: 200px;
+        height: 200px;
+        margin-top: 120px;
+    }
+    .new-c-box-2 {
+        width: 200px;
+        height: 200px;
+    }
+    p.new-fashion {
+        padding-top: 55px;
+        font-size: 15px;
+    }
+      
+    p.fashion-title {
+        font-size: 25px;
+    }
+    
+}
+
+@media (min-width: 1320px) and (max-width: 1419.98px)
+{
+    .new-collection-1 {
+        height: 420px;
+    }
+    .new-collection-2 {
+        height: 420px;
+    }
+    .new-collection-3 {
+        height: 420px;
+    }
+    .new-c-box-1 {
+        width: 200px;
+        height: 200px;
+        margin-top: 118px;
+    }
+    .new-c-box-2 {
+        width: 200px;
+        height: 200px;
+    }
+    p.new-fashion {
+        padding-top: 55px;
+        font-size: 15px;
+    }
+      
+    p.fashion-title {
+        font-size: 25px;
+    }
+}
+
+@media (min-width: 1420px) and (max-width: 1519.98px)
+{
+    .new-collection-1 {
+        height: 450px;
+    }
+    .new-collection-2 {
+        height: 450px;
+    }
+    .new-collection-3 {
+        height: 450px;
+    }
+    .new-c-box-1 {
+        width: 220px;
+        height: 220px;
+        margin-top: 140px;
+    }
+    .new-c-box-2 {
+        width: 220px;
+        height: 220px;
+    }
+    p.new-fashion {
+        padding-top: 60px;
+        font-size: 15px;
+    }
+      
+    p.fashion-title {
+        font-size: 25px;
+    }
+}
+
+@media (min-width: 1520px) and (max-width: 1619.98px)
+{
+    .new-collection-1 {
+        height: 480px;
+    }
+    .new-collection-2 {
+        height: 480px;
+    }
+    .new-collection-3 {
+        height: 480px;
+    }
+    .new-c-box-1 {
+        width: 250px;
+        height: 250px;
+        margin-top: 140px;
+    }
+    .new-c-box-2 {
+        width: 250px;
+        height: 250px;
+    }
+    p.new-fashion {
+        padding-top: 80px;
+        font-size: 15px;
+    }
+      
+    p.fashion-title {
+        font-size: 25px;
+    }
+}
